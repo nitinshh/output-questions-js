@@ -118,6 +118,8 @@ var getData2 = () => {
   console.log("i am xyz"); // TypeError: getData2 is not a function
 };
 
+// if you want to print getData2() then call it at the last
+
 // -----------------------------------------------------------
 
 function func() {
